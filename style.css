@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#one {
+    background: burlywood;
+    float: left;
+} 
+
+#two {
+    background: pink;
+    float: right;  
+}
+
+#three {
+    background: greenyellow;
+    float: left;
+    clear: left;
+}
